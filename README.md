@@ -22,7 +22,7 @@ La aplicación funciona siguiendo estos pasos:
 
 ## Particularidades
 
-En este proyecto se ha trabajado con código heredado, es decir, escrito por otras personas y sobre el que hemos tenido que trabajar. Además se ha desarrollado la parte back, creando una base de datos y servidor propios. Por tanto, se trata del desarrollo de un producto completo: **front end + back end**.
+En este proyecto se ha trabajado con código heredado, es decir, escrito por otras personas y sobre el que hemos tenido que trabajar.
 
 ## Proyecto original
 
