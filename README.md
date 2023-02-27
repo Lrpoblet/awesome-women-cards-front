@@ -53,3 +53,4 @@ Se ha refactorizado el proyecto utilizando las siguientes tecnologías:
 ## Otros enlaces de interés
 
 - Proyecto original: http://beta.adalab.es/project-promo-r-module-2-team-6/
+- API que genera y guarda las tarjetas: https://dev.adalab.es/api/card

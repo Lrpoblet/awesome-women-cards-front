@@ -62,7 +62,7 @@ const Share = (props) => {
           >
             {props.resultUrl.success
               ? props.resultUrl.cardURL
-              : 'Tienes que rellenar todos los datos'}
+              : 'Tienes que rellenar todos los datos y la imagen no debe superar los 50KB, pulsa el botón de nuevo cuando lo tengas.'}
           </a>
 
           <div className="share__twitter">
